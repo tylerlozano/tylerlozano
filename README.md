@@ -15,9 +15,7 @@
 [youtube]: https://www.youtube.com/channel/UCT8lhfeQYSyJuMlR28dDDdw?view_as=subscriber
 [linkedin]: https://linkedin.com/in/tylerlozano
 
-
-
-Here are some ideas to get you started:
+<hr>
 
 - 🔭 I’m currently working on my Bootstrap-Vue and FastAPI website
 - 🌱 I’m currently learning System Design
