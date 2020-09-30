@@ -1,7 +1,7 @@
 
 # Hey there, I'm Tyler 👋
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="codeSTACKr.com" width="32px" src="./ultimate_flavicon.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="28px" src="./twitter_custom.png" />][twitter]
