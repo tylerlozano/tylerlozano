@@ -1,9 +1,9 @@
 ### Hey there, I'm Tyler 👋
 Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="./" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="./twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="./youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="./ultimate_flavicon.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="./twitter_custom.png" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="./linkedin_custom.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="./youtube_custom.png" />][youtube]
 
 <br />
 
