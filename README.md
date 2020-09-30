@@ -6,7 +6,8 @@
 [<img align="left" alt="codeSTACKr.com" width="28px" src="./ultimate_flavicon.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="./youtube.svg" />][youtube]
+<!--
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="./youtube.svg" />][youtube]-->
 
 <br />
 
