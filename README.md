@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey there, I'm Tyler 👋
+Connect with me:
+
+
+
+Languages and Tools:
+
 
 <!--
 **tylerlozano/tylerlozano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
