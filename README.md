@@ -4,8 +4,8 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="32px" src="./ultimate_flavicon.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="28px" src="./twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="28px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="28px" src="./twitter_custom.png" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="28px" src="./linkedin_custom.png" />][linkedin]
 <!--
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="./youtube.svg" />][youtube]-->
 
