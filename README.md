@@ -3,7 +3,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="./ultimate_flavicon.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="28px" src="./ultimate_flavicon.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="./youtube.svg" />][youtube]
@@ -15,17 +15,14 @@
 [youtube]: https://www.youtube.com/channel/UCT8lhfeQYSyJuMlR28dDDdw?view_as=subscriber
 [linkedin]: https://linkedin.com/in/tylerlozano
 
-<!--
-**tylerlozano/tylerlozano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my Bootstrap-Vue and FastAPI website
+- 🌱 I’m currently learning System Design
+- 👯 I’m looking to collaborate on anything that helps sustainability
+- 🤔 I’m looking for help with Vuex
+- 💬 Ask me about anything
+- 📫 How to reach me: tyler.m.lozano@gmail.com
+- ⚡ Fun fact: If Pinocchio says “My Nose Will Grow Now”, it would cause a paradox.
