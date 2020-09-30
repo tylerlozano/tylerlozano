@@ -1,6 +1,16 @@
 ### Hey there, I'm Tyler 👋
 Connect with me:
+[<img align="left" alt="codeSTACKr.com" width="22px" src="./" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="./twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="./youtube.svg" />][youtube]
 
+<br />
+
+[website]: https://lozano.ai
+[twitter]: https://twitter.com/lozano_ai
+[youtube]: https://www.youtube.com/channel/UCT8lhfeQYSyJuMlR28dDDdw?view_as=subscriber
+[linkedin]: https://linkedin.com/in/tylerlozano
 
 
 Languages and Tools:
