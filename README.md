@@ -18,7 +18,7 @@
 
 <hr>
 
-![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tylerlozano&theme=tokyonight)
+<!-- ![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tylerlozano&theme=tokyonight) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerlozano&theme=tokyonight)](https://github.com/tylerlozano/github-readme-stats)
 
