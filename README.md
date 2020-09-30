@@ -1,5 +1,8 @@
-### Hey there, I'm Tyler 👋
-Connect with me:
+
+# Hey there, I'm Tyler 👋
+
+### Connect with me:
+
 [<img align="left" alt="codeSTACKr.com" width="22px" src="./ultimate_flavicon.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="./twitter_custom.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="./linkedin_custom.png" />][linkedin]
@@ -11,10 +14,6 @@ Connect with me:
 [twitter]: https://twitter.com/lozano_ai
 [youtube]: https://www.youtube.com/channel/UCT8lhfeQYSyJuMlR28dDDdw?view_as=subscriber
 [linkedin]: https://linkedin.com/in/tylerlozano
-
-
-Languages and Tools:
-
 
 <!--
 **tylerlozano/tylerlozano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
