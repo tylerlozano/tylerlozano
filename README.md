@@ -1,3 +1,5 @@
+<img align="left" alt="codeSTACKr.com" width="128px" src="./perfect.svg" />
+<br>
 
 # Hey there, I'm Tyler 👋
 
