@@ -2,7 +2,7 @@
 <br>
 
 # Hey there, I'm Tyler 👋
-A full stack python developer with a focus on backend engineering and machine learning.
+A full stack python developer with a primary interest in backend engineering and machine learning.
 
 ### Connect with me
 
