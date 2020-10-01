@@ -1,8 +1,7 @@
 <img align="left" alt="codeSTACKr.com" width="420px" src="./perfect.svg" />
 <br>
-
 # Hey there, I'm Tyler 👋
-I'm a full stack python developer with a focus on backend engineering and machine learning.
+A full stack python developer with a focus on backend engineering and machine learning.
 
 ### Connect with me
 
