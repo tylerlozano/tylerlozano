@@ -15,9 +15,16 @@ A full stack python developer with a primary interest in backend engineering and
 [<img align="left" alt="codeSTACKr.com" width="32px" src="./LAST_FLAVY.png" />][website]
 
 
+<br/>
+<br/>
 
-
-<br />
+- 🔭 I’m currently working on my Bootstrap-Vue and FastAPI website
+- 🌱 I’m currently learning System Design
+- 👯 I’m looking to collaborate on anything that helps sustainability
+- 🤔 I’m looking for help with Swarm AI
+- 💬 Ask me about anything
+- 📫 How to reach me: tyler.m.lozano@gmail.com
+- ⚡ Fun fact: If Pinocchio says “My Nose Will Grow Now”, it would cause a paradox.
 
 [website]: https://lozano.ai
 [twitter]: https://twitter.com/lozano_ai
@@ -30,12 +37,3 @@ A full stack python developer with a primary interest in backend engineering and
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerlozano&theme=tokyonight)](https://github.com/tylerlozano/github-readme-stats)
 
 ![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tylerlozano&theme=tokyonight)
-
-<!-- 
-- 🔭 I’m currently working on my Bootstrap-Vue and FastAPI website
-- 🌱 I’m currently learning System Design
-- 👯 I’m looking to collaborate on anything that helps sustainability
-- 🤔 I’m looking for help with Vuex
-- 💬 Ask me about anything
-- 📫 How to reach me: tyler.m.lozano@gmail.com
-- ⚡ Fun fact: If Pinocchio says “My Nose Will Grow Now”, it would cause a paradox. -->
