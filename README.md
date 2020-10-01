@@ -5,11 +5,12 @@
 
 ### Connect with me
 
-[<img align="left" alt="codeSTACKr.com" width="32px" src="./ultimate_flavicon.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="32px" src="./LAST_FLAVY.png" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="28px" src="./twitter_custom.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="28px" src="./linkedin_custom.png" />][linkedin]
-<!--
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="./youtube.svg" />][youtube]-->
+[<img align="left" alt="codeSTACKr | Youtube" width="28px" src="./youtube_light.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Mail" width="28px" src="./mail.svg" />][mail]
+
 
 <br />
 
@@ -17,6 +18,7 @@
 [twitter]: https://twitter.com/lozano_ai
 [youtube]: https://www.youtube.com/channel/UCT8lhfeQYSyJuMlR28dDDdw?view_as=subscriber
 [linkedin]: https://linkedin.com/in/tylerlozano
+[mail]: mailto:tyler.m.lozano@gmail.com
 
 <hr>
 
