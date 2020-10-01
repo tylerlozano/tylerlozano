@@ -18,9 +18,9 @@
 
 <hr>
 
-<!-- ![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tylerlozano&theme=tokyonight) -->
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerlozano&theme=tokyonight)](https://github.com/tylerlozano/github-readme-stats)
+
+![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tylerlozano&theme=tokyonight)
 
 <!-- 
 - 🔭 I’m currently working on my Bootstrap-Vue and FastAPI website
