@@ -10,7 +10,7 @@
 [<img align="left" alt="codeSTACKr | Youtube" width="28px" src="./youtube_light.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Mail" width="28px" src="./mail.svg" />][mail]
 <br>
-### Check out my blogfolio
+### Check out my website
 [<img align="left" alt="codeSTACKr.com" width="32px" src="./LAST_FLAVY.png" />][website]
 
 
