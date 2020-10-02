@@ -39,16 +39,12 @@ A full stack python developer with a primary interest in backend engineering and
 
 <img align="left" width="26px" src="./tool_airflow.png" />
 <img align="left" width="64px" src="./tool_celery.png" style="margin-bottom: 10px;"/>
-<br>
-<br>
 <img align="left" width="30px" src="./tool_docker.svg" />
 <img align="left" width="30px" src="./tool_kubernetes.svg" />
-<br>
 <img align="left" width="26px" src="./tool_postgres.svg" />
 <img align="left" width="90px" src="./tool_mongodb.svg" />
 <img align="left" width="26px" src="./tool_neo4j.svg" />
 <img align="left" width="26px" src="./tool_redis.svg" />
-<br>
 <img align="left" width="64px" src="./tool_spark.svg" />
 <img align="left" width="26px" src="./tool_tensorflow.svg" />
 
