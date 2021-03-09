@@ -11,9 +11,9 @@ A full stack python developer with a primary interest in backend engineering and
 <!--[<img align="left" alt="codeSTACKr | Youtube" width="28px" src="./youtube_light.svg" />][youtube]-->
 [<img align="left" alt="codeSTACKr | Mail" width="28px" src="./mail.svg" />][mail]
 <br>
-<!--
+
 ### Check out my website
-[<img align="left" alt="codeSTACKr.com" width="32px" src="./LAST_FLAVY.png" />][website]-->
+[<img align="left" alt="codeSTACKr.com" width="32px" src="./LAST_FLAVY.png" />][website]
 
 
 <br/>
@@ -66,7 +66,7 @@ A full stack python developer with a primary interest in backend engineering and
 [twitter]: https://twitter.com/lozano_ai
 [youtube]: https://www.youtube.com/channel/UCT8lhfeQYSyJuMlR28dDDdw?view_as=subscriber
 [linkedin]: https://linkedin.com/in/tylerlozano
-[mail]: mailto:tyler.m.lozano@gmail.com
+[mail]: mailto:tyler@lozano.ai
 
 <hr>
 
